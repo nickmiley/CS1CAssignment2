@@ -5,4 +5,4 @@ chicken,7
 fish,15
 juice,4
 milk,6
-ramen,8
+ramen,18
